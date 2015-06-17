@@ -1,0 +1,4 @@
+.gradle
+build
+.idea/
+xldp-gradle-plugin.iml
