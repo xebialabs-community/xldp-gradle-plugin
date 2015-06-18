@@ -15,6 +15,9 @@ apply plugin: "com.gradle.plugin-publish"
 
 group = 'com.xebialabs.gradle.plugins'
 
+sourceCompatibility = 1.6
+targetCompatibility = 1.6
+
 repositories {
   mavenLocal()
   mavenCentral()
